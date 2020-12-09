@@ -1,6 +1,3 @@
-#Script for "Fresh start after rough rides: understanding patterns of genetic differentiation upon human-mediated translocations"
-#Melanie Heckwolf*, Teófilo Morim*, Francesca Riccioli, Miguel Baltazar-Soares (*shared first authors)
-
 #load packages
 library("ggplot2")
 library("cowplot")
